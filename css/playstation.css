@@ -121,7 +121,7 @@ h2{
 #container-destaque > #destaque-img{
     width: 600px;
     height: 400px;
-    background-image: url("/img-playstation/re-4.jpg");
+    background-image: url("../img-playstation/re-4.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -152,7 +152,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-1{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/castelvania.jpg");
+    background-image: url("../img-playstation/castelvania.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -160,7 +160,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-2{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/resident-evil-2.jpg");
+    background-image: url("../img-playstation/resident-evil-2.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -168,7 +168,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-3{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/silent\ hill.jpg");
+    background-image: url("../img-playstation/silent\ hill.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -186,7 +186,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-4{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/black.jpg");
+    background-image: url("../img-playstation/black.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -194,7 +194,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-5{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/silent-hill-2.webp");
+    background-image: url("../img-playstation/silent-hill-2.webp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -202,7 +202,7 @@ h2{
 .container-demosntracao > .container-box > #container-img-6{
     width: 200px;
     height: 120px;
-    background-image: url("/img-playstation/GTA_SanAndreas.jpg");
+    background-image: url("../img-playstation/GTA_SanAndreas.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;

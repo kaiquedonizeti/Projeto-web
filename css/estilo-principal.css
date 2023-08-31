@@ -123,17 +123,17 @@ h2{
     margin-left: 20px;
     height: 300px;
 }
-.container > div > p > #god{
+.container > div > #god{
     color: #0070d1;
     text-decoration: none;
     font-weight: bold;
 }
-.container > div > p > #hallo{
+.container > div > #hallo{
     color: #107b10;
     text-decoration: none;
     font-weight: bold;
 }
-.container > div > p > #mario{
+.container > div > #mario{
     color: #d82231;
     text-decoration: none;
     font-weight: bold;
@@ -179,6 +179,33 @@ footer > #contatos{
     #cont_img_header > img{
         width: 80px;
         border-radius: 10px;
+    }
+    .container > div > a{
+    }
+    .container > div > h2{
+        text-align: center;
+        width: 300px;
+    }
+    .container > div > p{
+        display: none;
+    }
+    .container > .god{
+        margin: auto;
+        display: block;
+        width: 300px;
+        height: 200px;
+    }
+    .container > .hallo{
+        margin: auto;
+        display: block;
+        width: 300px;
+        height: 200px;
+    }
+    .container > .mario{
+        margin: auto;
+        display: block;
+        width: 300px;
+        height: 200px;
     }
     h1{
         font-size: 20px;
