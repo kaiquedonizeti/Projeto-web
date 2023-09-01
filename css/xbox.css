@@ -258,7 +258,6 @@ footer > #contatos{
     }
     footer > #redes > #insta, #face, #whats{
         width: 20px;
-        cursor: pointer;
     }
     footer > #copyrigth{
         font-size: 0px;
@@ -275,7 +274,6 @@ footer > #contatos{
     }
     footer > #redes > #insta, #face, #whats{
         width: 20px;
-        cursor: pointer;
     }
     header{
         border-radius: 0px;
